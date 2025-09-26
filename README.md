@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Javaminiproject
+=======
+>>>>>>> f0f8b7b
 Online Shopping Mini Project (Java AWT + JDBC + MySQL)
 
 Requirements
@@ -37,3 +43,7 @@ Notes
 - The UI uses AWT components and basic layouts to keep the example simple.
 
 
+<<<<<<< HEAD
+=======
+>>>>>>> 37f6563 (Javaminiproject)
+>>>>>>> f0f8b7b
